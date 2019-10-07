@@ -73,6 +73,9 @@ the framework launched external, unsigned arbitrary code with full privileges.
 
 ## Links
 https://github.com/AdoptOpenJDK/IcedTea-Web
+
 https://icedtea.classpath.org/wiki/IcedTea-Web
+
 https://github.com/AdoptOpenJDK/IcedTea-Web/issues/327
+
 https://access.redhat.com/errata/RHSA-2019:2003
